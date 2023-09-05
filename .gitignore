@@ -8,7 +8,8 @@ dist/
 .env
 .env.staging
 .env.production%
-.env.docker.production
 .env.docker.staging
+.env.docker.preprod
+.env.docker
 config.yaml
 
