@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+dist/
+.env
+.env.staging
+.env.production%
+.env.docker.production
+.env.docker.staging
+config.yaml
+
