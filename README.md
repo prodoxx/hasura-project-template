@@ -1,3 +1,3 @@
-# MyCredit Belize
+# Hasura Project Template
  
-Under development
+ Quick starter template to use to start using Hasura with users table already created.
